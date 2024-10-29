@@ -1,7 +1,7 @@
 # Diagnosing Alzheimer's from Handwriting
 
 Development of machine learning approaches to distinguish between Alzheimer’s patients and healthy individuals based on the DARWIN data set.
-This project was completed as part of a university course on Data Mining and Machine Learning.
+Please note that this project was completed as part of a university course on Data Mining and Machine Learning.
 
 ## Project Structure
 
@@ -17,5 +17,5 @@ This project was completed as part of a university course on Data Mining and Mac
   - **2.5 Feature Reduction/**: Contains notebooks for feature reduction analysis.
 
 - **PDF Files**:
-  - `presentation.pdf`: A presentation summarizing the project, methodologies, and key findings.
-  - `report.pdf`: The detailed project report documenting the entire study, including data exploration, model development, and results.
+  - `Presentation.pdf`: A presentation summarizing the project, methodologies, and key findings.
+  - `Report.pdf`: The detailed project report documenting the entire study, including data exploration, model development, and results.
